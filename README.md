@@ -5,18 +5,18 @@ Pillow Image Enhancer(PIE) is a simple image enhancement tool that allows to car
 < Link Here >
 # Features
 Pillow Image Enhancer(PIE) provides three basic image enhancement techniques:<br>
-1.Some Basic Gray Level Transformations<br>
+<br>**1.Some Basic Gray Level Transformations**<br>
     i.  Thresholding<br>
    ii.  Digital Negative<br>
   iii.  Intensity Level Slicing<br>
    iv.  Bit Plane Slicing<br>
     v.  Histogram Processing<br>
-2.Some Basic Spatial Filters<br>
+<br>**2.Some Basic Spatial Filters**<br>
     i.  Box Filter <br>
    ii.  Gaussian Filter<br> 
   iii.  Median Filter<br>
    iv.  Unsharp Masking<br>
-3.Some Basic Image Interpolation techniques<br>
+<br>**3.Some Basic Image Interpolation techniques**<br>
     i.  Nearest Neighborhood Interpolation<br>
    ii.  Bilinear Interpolation<br>
   iii.  Bicubic Interpolation<br>
@@ -24,7 +24,7 @@ Pillow Image Enhancer(PIE) provides three basic image enhancement techniques:<br
   # REQUIREMENTS
   Python 3.12+<br>
   PIL 11.0.0 (Python Imaging Library)<br>
-  fortune-python 1.1.1 ( Only if you want to have some good message at the end of your tasks !)<br>
+  fortune-python 1.1.1 > ( Only if you want to have some good message at the end of your tasks !)<br>
   Terminal or IDE of your choice<br>
 
   # INSTALLATION
