@@ -32,7 +32,11 @@ iii. fortune-python 1.1.1 > ( Only if you want to have some good message at the 
   lines of codes are for Ubuntu 24.04<br>
   1.Install Python 3.12+ on your machine.<br>
   
-    sudo apt update<br>
-    sudo apt install python3<br>
+    sudo apt update
+    sudo apt install python3
     
-  2.
+  2.Install pip 
+  
+      sudo apt install python3-pip
+  3.Clone this repository
+  
