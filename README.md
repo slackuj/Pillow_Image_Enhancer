@@ -22,8 +22,8 @@ Pillow Image Enhancer(PIE) provides three basic image enhancement techniques:<br
   iii.  Bicubic Interpolation<br>
 
   # REQUIREMENTS
-    i. Python 3.12+<br>
-   ii. PIL 11.0.0 (Python Imaging Library)<br>
+i. Python 3.12+<br>
+ii. PIL 11.0.0 (Python Imaging Library)<br>
 iii. fortune-python 1.1.1 > ( Only if you want to have some good message at the end of your tasks !)<br>
   Terminal or IDE of your choice<br>
 
@@ -31,7 +31,8 @@ iii. fortune-python 1.1.1 > ( Only if you want to have some good message at the 
   The installation steps aside from step 1 and step 2 should be same in all environments.The following<br>
   lines of codes are for Ubuntu 24.04<br>
   1.Install Python 3.12+ on your machine.<br>
-    <code>sudo apt update<br>
-          sudo apt install python3 </code><br>
+  
+    sudo apt update<br>
+    sudo apt install python3<br>
     
   2.
