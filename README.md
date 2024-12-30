@@ -4,7 +4,7 @@ Pillow Image Enhancer(PIE) is a simple image enhancement tool that allows to car
 # Video Demo
 < Link Here >
 # Features
-Pillow Image Enhancer(PIE) provides three basic image enhancement techniques:
+Pillow Image Enhancer(PIE) provides three basic image enhancement techniques:<br>
 1.Some Basic Gray Level Transformations
     i.  Thresholding
    ii.  Digital Negative
