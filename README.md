@@ -59,7 +59,7 @@ iv.Terminal or IDE of your choice<br>
 > assuming you are inside **Pillow_Image_Enhancer** directory that was cloned at step 4.<br>
   6.Install the required modules<br>
 
-    pip install PIL
+    pip install pillow
     pip install motplotlib
     pip install fortune-python
 
