@@ -44,7 +44,7 @@ iv.Terminal or IDE of your choice<br>
   2.Install pip <br>
 
     sudo apt install python3-pip
-  3. create a virtual environment using python3 -m venv path/to/venv.<br>
+  3.Create a virtual environment using python3 -m venv path/to/venv.<br>
 
     python3 -m venv MyVirtualEnv
     cd MyVirtualEnv
@@ -57,7 +57,7 @@ iv.Terminal or IDE of your choice<br>
 
     source ../bin/activate 
 > assuming you are inside **Pillow_Image_Enhancer** directory that was cloned at step 4.<br>
-  6. Install the required modules<br>
+  6.Install the required modules<br>
 
     pip install PIL
     pip install motplotlib
