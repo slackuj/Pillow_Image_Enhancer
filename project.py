@@ -77,7 +77,7 @@ def enhance(img):
    
 def glevel_transform(img):
     """Some Gray Level Transformations"""
-    print("1.Thresholding\n2.Digital Negative\n3.Intensity Level Slicig\n4.Bit Plane Slicing\5.Histogram Processing")
+    print("1.Thresholding\n2.Digital Negative\n3.Intensity Level Slicig\n4.Bit Plane Slicing\n5.Histogram Processing")
     print("\nEnter 'quit' to exit")
     option = technique.options(5)
     match(option):
