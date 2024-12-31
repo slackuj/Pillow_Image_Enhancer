@@ -42,20 +42,20 @@ iv.Terminal or IDE of your choice<br>
     sudo apt install python3
     
   2.Install pip <br>
-  
-      sudo apt install python3-pip
+
+    sudo apt install python3-pip
   3. create a virtual environment using python3 -m venv path/to/venv.<br>
 
-         python3 -m venv MyVirtualEnv
-         cd MyVirtualEnv
+    python3 -m venv MyVirtualEnv
+    cd MyVirtualEnv
  
   4.Clone this repository<br>
 
-      git clone https://github.com/slackuj/Pillow_Image_Enhancer.git
-      cd Pillow_Image_Enhancer
+    git clone https://github.com/slackuj/Pillow_Image_Enhancer.git
+    cd Pillow_Image_Enhancer
   5.Activate the virtual environment (this will be handy !!!)<br>
 
-      source ../bin/activate 
+    source ../bin/activate 
 > assuming you are inside **Pillow_Image_Enhancer** directory that was cloned at step 4.<br>
   6. Install the required modules<br>
 
@@ -67,7 +67,7 @@ iv.Terminal or IDE of your choice<br>
 You can now use Pillow Image Enhancer(PIE) to enhance your images.The output of the images shall be <br>
 stored in the same project directory inside a new sub-directory 'output'.
 
-        python project.py shlokpal.jpg
+    python project.py shlokpal.jpg
 > Provide the prompt as you want to carryout the processing.<br>
 > You can quit the program by simply typing 'quit' at any input prompt.
 
