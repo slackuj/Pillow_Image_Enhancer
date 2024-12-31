@@ -60,7 +60,7 @@ iv.Terminal or IDE of your choice<br>
   6.Install the required modules<br>
 
     pip install pillow
-    pip install motplotlib
+    pip install matplotlib
     pip install fortune-python
 
 # START GUIDE
