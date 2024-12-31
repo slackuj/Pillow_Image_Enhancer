@@ -70,7 +70,9 @@ def histogram_processing(img):
     option = technique.options(2)
     match(option):
         case 1: display_hist(img)
-        case 2: equalize_hist(img)
+        case 2: 
+            img = equalize_hist(img)
+            return img
 
 def display_hist(img):
     print("Dispaying the input image")
