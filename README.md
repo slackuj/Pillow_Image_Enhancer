@@ -28,8 +28,9 @@ Pillow Image Enhancer(PIE) provides three basic image enhancement techniques:<br
   # REQUIREMENTS
   i. Python 3.12+<br>
  ii. PIL 11.0.0 (Python Imaging Library)<br>
-iii. fortune-python 1.1.1 > ( Only if you want to have some good message at the end of your tasks !)<br>
-  Terminal or IDE of your choice<br>
+iii. fortune-python 1.1.1 <br>
+> ( Only if you want to have some good message at the end of your tasks !)<br>
+iv.Terminal or IDE of your choice<br>
 
   # INSTALLATION
   The installation steps aside from step 1 and step 2 should be same in all environments.The following<br>
@@ -59,12 +60,15 @@ iii. fortune-python 1.1.1 > ( Only if you want to have some good message at the 
     pip install PIL
     pip install numpy
     pip install motplotlib
-    pip install fortune python
+    pip install fortune-python
 
 # START GUIDE
 You can now use Pillow Image Enhancer(PIE) to enhance your images.The output of the images shall be <br>
-stored in the same project directory inside a new sub-directory 'output'.
+stored in the same project directory inside a new sub-directory 'output'.You can quit the program by <br>
+simply typing 'quit' at any input prompt.
 
         python project.py shlokpal.jpg
+> Provide the prompt as you want to carryout the processing.
 
-  
+# BUGS 
+Please report any bugs and issues here in this repository or to slackuj@gmail.com.
