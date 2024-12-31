@@ -68,7 +68,7 @@ You can now use Pillow Image Enhancer(PIE) to enhance your images.The output of 
 stored in the same project directory inside a new sub-directory 'output'.
 
         python project.py shlokpal.jpg
-> Provide the prompt as you want to carryout the processing.
+> Provide the prompt as you want to carryout the processing.<br>
 > You can quit the program by simply typing 'quit' at any input prompt.
 
 # BUGS 
