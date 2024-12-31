@@ -1,6 +1,5 @@
 from PIL import Image, ImageOps, ImageFilter,ImageShow, UnidentifiedImageError
-from bit_plane_slicing import bit_plane_slicing
-import glevel_transforms, technique, spatial_filters, image_interpolations, interpolate 
+import glevel_transforms, technique, spatial_filters, image_interpolations
 import sys, os
 from fortune import fortune
 
