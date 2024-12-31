@@ -29,7 +29,8 @@ Pillow Image Enhancer(PIE) provides three basic image enhancement techniques:<br
   i. Python 3.12+<br>
  ii. PIL 11.0.0 (Python Imaging Library)<br>
 iii. fortune-python 1.1.1 <br>
-    > ( Only if you want to have some good message at the end of your tasks !)<br>
+> ( Only if you want to have some good message at the end of your tasks !)<br>
+
 iv.Terminal or IDE of your choice<br>
 
   # INSTALLATION
