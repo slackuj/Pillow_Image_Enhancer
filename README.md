@@ -60,7 +60,6 @@ iv.Terminal or IDE of your choice<br>
   6. Install the required modules<br>
 
     pip install PIL
-    pip install numpy
     pip install motplotlib
     pip install fortune-python
 
